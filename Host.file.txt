@@ -1,0 +1,10 @@
+Ip Address	Type
+Host File	Ubuntu Desktop 1804.4
+192.168.44.	PyCharm1
+	
+	
+Ansible	Ubuntu servers 1804.04
+192.168.44	AnsibleTarget1
+192.189.44	AnsibleTarget2
+	
+
